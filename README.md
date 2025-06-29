@@ -107,5 +107,10 @@ http://127.0.0.1:5000/
 ✅ Building a Web App with Flask
 ✅ Deploying ML Apps
 
+## 📸 Sample of the Web App
+
+<img src="End-to-End-MachineLearning-Project/static/Screenshot_webapp.png" alt="Web App Screenshot" width="100%">
+
+
 
 
