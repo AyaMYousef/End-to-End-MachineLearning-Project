@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Home</title>
+{% endblock %}
+
+
+{% block body %}
+<h2>Home</h2>
+
+<br>
+
+<div>
+    <div class="bg-light p-4 rounded">
+        <div class="col-sm-12 mx-auto">
+            <h4>Regression Model for Houses Prices Prediction</h4>
+            <hr>
+            <h5> Problem Definition</h5>
+
+            <li>The DataSet consists of 9 Features.</li>
+            <li>The target is (median_house_value).</li>
+            <li>Features are (longitude, latitude, housing_median_age, total_rooms, total_bedrooms_household,
+                median_income, ocean_proximity) </li>
+            <li> The final chosen Model is XGBoost, and the evaluation metric is (RMSE).</li>
+            <li>XGBoost achieved about (RMSE=45878) on train Dataset using Cross Validation, and (RMSE= 44546) on test
+                Dataset</li>
+
+            <hr>
+            <a class="btn btn-success" href="/predict" role="button">Predict one Instance</a>
+        </div>
+    </div>
+</div>
+
+<hr>
+<br>
+<br>
+<br>
+<a href="/predict">
+    <img src="{{url_for('static', filename='output.png')}}" alt="Output Models" class="rounded ">
+</a>
+
+{% endblock %}
