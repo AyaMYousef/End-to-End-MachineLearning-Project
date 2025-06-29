@@ -109,9 +109,7 @@ http://127.0.0.1:5000/
 
 ## 📸 Sample of the Web App
 
-<img src="https://github.com/AyaMYousef/End-to-End-MachineLearning-Project/blob/main/static/Screenshot_webapp.png?raw=true" alt="Web App Screenshot" width="100%">
-
-
+https://raw.githubusercontent.com/AyaMYousef/End-to-End-MachineLearning-Project/main/static/Screenshot_webapp.png
 
 
 
