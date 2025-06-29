@@ -108,10 +108,6 @@ http://127.0.0.1:5000/
 ✅ Deploying ML Apps
 
 Sample of the web app:
-
-
-
-<img width="1459" alt="Screenshot 2025-06-29 at 12 13 56 PM" src="https://github.com/static/Screenshot_webapp.png" />
-
+<img src="static/Screenshot_webapp.png" alt="Web App Screenshot" width="100%">
 
 
