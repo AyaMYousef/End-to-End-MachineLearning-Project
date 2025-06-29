@@ -77,7 +77,7 @@ http://127.0.0.1:5000/
 ## 📬 Contact
 
 **Eng.Aya Youssef**
-🔗 [LinkedIn](www.linkedin.com/in/ayamyoussef) | [GitHub](https://github.com/AyaMYousef)
+🔗 [LinkedIn](https://www.linkedin.com/in/ayamyoussef) | [GitHub](https://github.com/AyaMYousef)
 
 ---
 
