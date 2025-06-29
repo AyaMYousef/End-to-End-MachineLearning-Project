@@ -111,7 +111,7 @@ Sample of the web app:
 
 
 
-<img width="1459" alt="Screenshot 2025-06-29 at 12 13 56 PM" src="https://github.com/user-attachments/assets/726fdc31-3d02-4d7c-8994-036c28161af9" />
+<img width="1459" alt="Screenshot 2025-06-29 at 12 13 56 PM" src="https://github.com/static/Screenshot_webapp.png" />
 
 
 
